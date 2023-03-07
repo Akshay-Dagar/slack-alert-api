@@ -1,4 +1,5 @@
-# Prerequisite: Create a slack app and a webhook for that app. Link it to your slack channel. ref: https://youtu.be/sxtC40gUS2A
+# Prerequisite: 
+Create a slack app and a webhook for that app. Link it to your slack channel. ref: https://youtu.be/sxtC40gUS2A
 
 # How to Run
 1. Clone this repo
